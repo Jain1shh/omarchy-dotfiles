@@ -17,10 +17,9 @@ Omarchy defaults, themes, and generated files are intentionally excluded as they
 3. Copy the configs into `~/.config`
 
 ```bash
-```
-```bash
 git clone <repo-url>
 cp -r omarchy-dotfiles/hypr ~/.config/
 cp -r omarchy-dotfiles/waybar ~/.config/
+```
 
 4. Log out and log back in to apply all changes
