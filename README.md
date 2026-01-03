@@ -1,5 +1,7 @@
 # Omarchy Dotfiles
 
+https://omarchy.org by https://dhh.dk
+
 Personal dotfiles that work **on top of Omarchy defaults**.
 
 This repository contains **only user overrides**, not a full Omarchy or Hyprland configuration.
